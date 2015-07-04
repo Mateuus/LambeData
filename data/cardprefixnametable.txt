@@ -453,3 +453,6 @@
 4453#da Violência#
 4454#Ceifadeiro#
 4455#Feya#
+4560#do Alphoccio#
+4561#do Aprendizado#
+4562#do Ataque Psíquico#
