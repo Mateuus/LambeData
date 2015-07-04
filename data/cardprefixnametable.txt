@@ -456,3 +456,4 @@
 4560#do Alphoccio#
 4561#do Aprendizado#
 4562#do Ataque Psíquico#
+4563#do Terrorista Ácido#

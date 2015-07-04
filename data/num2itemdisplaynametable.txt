@@ -5282,6 +5282,7 @@
 4560#Carta Menestrel Alphoccio#
 4561#Carta Professora Celia#
 4562#Carta Mestre Chen#
+4563#Carta Criador Flamel#
 
 
 //file end
